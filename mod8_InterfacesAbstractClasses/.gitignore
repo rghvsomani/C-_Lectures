@@ -1,0 +1,10 @@
+# Compiled Object Files
+*.o
+
+# Executables
+program
+
+# Editor backups and temp files
+*~
+*.swp
+*.swo
